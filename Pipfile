@@ -8,5 +8,3 @@ verify_ssl = true
 [packages]
 numpy = "*"
 
-[requires]
-python_version = "3.8"
